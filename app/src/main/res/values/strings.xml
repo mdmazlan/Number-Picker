@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Number Picker</string>
+    <string name="number_picker">Number Picker</string>
+    <string name="value">Value</string>
+    <string name="increase">Increase</string>
+    <string name="decrease">Decrease</string>
+</resources>
