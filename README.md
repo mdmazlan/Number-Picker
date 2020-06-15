@@ -2,7 +2,7 @@
 
 Number Picker (Increase &amp; decrease Value).
 
-![Number-Picker](/Number_Picker.png)
+![Number-Picker](/number_picker.jpg)
 
 Screen Shot
 
